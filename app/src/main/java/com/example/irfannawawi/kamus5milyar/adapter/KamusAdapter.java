@@ -8,9 +8,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.example.irfannawawi.kamus5milyar.DetailActivity;
 import com.example.irfannawawi.kamus5milyar.R;
 import com.example.irfannawawi.kamus5milyar.model.KamusItem;
+import com.example.irfannawawi.kamus5milyar.view.DetailActivity;
 
 import java.util.ArrayList;
 import java.util.List;

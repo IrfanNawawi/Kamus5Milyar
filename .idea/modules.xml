@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidStudioProjects-Kamus5Milyar.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidStudioProjects-Kamus5Milyar.iml" group="Kamus5Milyar" />
       <module fileurl="file://$PROJECT_DIR$/Kamus5Milyar.iml" filepath="$PROJECT_DIR$/Kamus5Milyar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Kamus5Milyar-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Kamus5Milyar-app.iml" group="Kamus5Milyar/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

@@ -1,4 +1,4 @@
-package com.example.irfannawawi.kamus5milyar;
+package com.example.irfannawawi.kamus5milyar.view;
 
 import android.content.Intent;
 import android.content.res.Resources;
@@ -8,6 +8,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.widget.ProgressBar;
 
+import com.example.irfannawawi.kamus5milyar.R;
 import com.example.irfannawawi.kamus5milyar.db.KamusHelper;
 import com.example.irfannawawi.kamus5milyar.model.KamusItem;
 import com.example.irfannawawi.kamus5milyar.preference.AppPreference;

@@ -1,8 +1,10 @@
-package com.example.irfannawawi.kamus5milyar;
+package com.example.irfannawawi.kamus5milyar.view;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
+
+import com.example.irfannawawi.kamus5milyar.R;
 
 public class DetailActivity extends AppCompatActivity {
     public static final String DATA_KATA = "data_kata";

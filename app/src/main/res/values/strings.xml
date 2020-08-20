@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">Kamus5Milyar</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -10,7 +9,6 @@
     <string name="text_indonesia">Indonesia - Inggris</string>
     <string name="text_inggris">English - Indonesian</string>
     <string name="app_first_run">App first run</string>
-    <string name="text_translate">TERJEMAHAN</string>
     <string name="text_app">KAMUS 5 MILYAR</string>
     <string name="text_made">MADE (Menjadi Android Developer Expert</string>
     <string name="text_dicoding">Dicoding</string>

@@ -1,4 +1,4 @@
-package com.example.irfannawawi.kamus5milyar;
+package com.example.irfannawawi.kamus5milyar.view;
 
 import android.os.Bundle;
 import android.support.design.widget.NavigationView;
@@ -13,6 +13,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.example.irfannawawi.kamus5milyar.R;
 import com.example.irfannawawi.kamus5milyar.adapter.KamusAdapter;
 import com.example.irfannawawi.kamus5milyar.db.KamusHelper;
 import com.example.irfannawawi.kamus5milyar.model.KamusItem;
